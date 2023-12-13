@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebBomba
+build_property.RootNamespace = WebBomba
+build_property.ProjectDir = D:\УЧОБА\Уроки\ASP.NET\проекти\ASP.NET_PV113-main 26.10 Test admin panel\WebBomba\WebBomba\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\УЧОБА\Уроки\ASP.NET\проекти\ASP.NET_PV113-main 26.10 Test admin panel\WebBomba\WebBomba
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Category/_ModalDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX01vZGFsRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Account/ConfirmedEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtZWRFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Product/_ModalDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfTW9kYWxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Shared/Components/UserLink/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckxpbmtcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Shared/_SiteHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaXRlSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Shared/_SiteLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaXRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/УЧОБА/Уроки/ASP.NET/проекти/ASP.NET_PV113-main 26.10 Test admin panel/WebBomba/WebBomba/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xxl5kcvcoq
